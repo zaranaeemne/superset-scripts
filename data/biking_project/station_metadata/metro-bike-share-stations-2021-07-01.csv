@@ -1,0 +1,344 @@
+id,name,go_live_on,region,status
+3000,Virtual Station,2016-07-07,N/A,True
+3005,7th & Flower,2016-07-07,DTLA,True
+3006,Olive & 8th,2016-07-07,DTLA,True
+3007,5th & Grand,2016-07-07,DTLA,True
+3008,Figueroa & 9th,2016-07-07,DTLA,True
+3010,11th & Maple,2016-07-07,DTLA,True
+3011,Figueroa & Pico,2016-07-10,DTLA,True
+3013,Anaheim & Avalon,2016-07-12,Port of LA,False
+3014,Union Station West Portal,2017-07-31,DTLA,True
+3016,Los Angeles & Temple,2016-07-07,DTLA,True
+3018,Grand & Olympic,2016-07-07,DTLA,True
+3019,12th & Hill,2016-07-07,DTLA,True
+3020,Hill & Washington,2016-07-07,DTLA,True
+3021,3rd & Rose,2016-07-07,DTLA,False
+3022,3rd & Santa Fe,2016-07-07,DTLA,True
+3023,1st & Judge John Aiso,2016-07-07,DTLA,True
+3024,Hope & 1st,2016-07-07,DTLA,True
+3025,Grand & Washington,2016-07-13,DTLA,True
+3026,Figueroa & Cesar Chavez,2016-07-07,DTLA,True
+3027,Spring & 3rd,2016-07-07,DTLA,True
+3028,Grand & Temple,2016-07-07,DTLA,True
+3029,Main & 4th,2016-07-07,DTLA,True
+3030,Main & 1st,2016-07-07,DTLA,True
+3031,7th & Spring,2016-07-07,DTLA,True
+3032,Hope & 6th,2016-07-07,DTLA,True
+3033,Main & 9th,2016-07-07,DTLA,True
+3034,Hope & 11th,2016-07-07,DTLA,True
+3035,Figueroa & 8th,2016-07-07,DTLA,True
+3036,Willow St & Mateo St,2016-07-07,DTLA,True
+3037,Imperial & 7th,2016-07-07,DTLA,True
+3038,Main & 5th,2016-07-07,DTLA,False
+3040,Wilshire & Witmer,2016-07-07,DTLA,True
+3042,1st & Central,2016-07-07,DTLA,True
+3045,18th & San Pedro,2016-07-07,DTLA,True
+3046,2nd & Hill,2016-07-07,DTLA,True
+3047,Pico & Flower,2016-07-12,DTLA,True
+3048,5th & Hewitt,2016-07-07,DTLA,True
+3049,2nd & Figueroa,2016-07-13,DTLA,True
+3051,7th & Broadway,2016-07-07,DTLA,False
+3052,7th & Bixel,2016-07-07,DTLA,True
+3054,Factory Place & Alameda,2016-07-07,DTLA,True
+3055,7th & Main,2016-07-07,DTLA,False
+3056,Grand & 14th,2016-07-07,DTLA,True
+3057,18th & Figueroa,2016-07-07,DTLA,True
+3058,Industrial St & Mateo St,2016-07-07,DTLA,True
+3059,11th & Santee,2016-07-07,DTLA,False
+3060,Pico & Maple,2016-07-07,DTLA,False
+3062,3rd & San Pedro,2016-07-07,DTLA,True
+3063,Pershing Square,2016-07-07,DTLA,True
+3064,Grand & 8th,2016-07-07,DTLA,True
+3065,New High & Ord,2016-07-11,DTLA,True
+3066,Spring & College,2016-07-07,DTLA,True
+3067,Main & 6th,2016-07-07,DTLA,False
+3068,Grand & 3rd,2016-07-07,DTLA,True
+3069,Broadway & 3rd,2016-07-07,DTLA,True
+3074,Hope & Olympic,2016-07-07,DTLA,True
+3075,Broadway & 9th,2016-07-07,DTLA,True
+3076,9th & Los Angeles,2016-07-07,DTLA,True
+3077,8th & Wall,2016-07-07,DTLA,True
+3078,Hill & College,2016-07-07,DTLA,True
+3079,Temple & Vignes,2016-07-07,DTLA,True
+3080,San Julian & 12th,2016-07-07,DTLA,False
+3081,Stanford & 12th,2016-07-07,DTLA,True
+3082,Traction & Rose,2016-07-13,DTLA,True
+4125,Banning's Landing,2016-08-29,Port of LA,False
+4126,Cabrillo Beach,2017-07-31,Port of LA,False
+4127,Catalina Express,2017-07-31,Port of LA,False
+4129,Crafted 22nd St Park,2017-07-31,Port of LA,False
+4130,DoubleTree Hotel,2017-07-31,Port of LA,False
+4131,Downtown Harbor,2017-07-31,Port of LA,False
+4132,Fanfare Fountain,2017-07-31,Port of LA,False
+4133,Ports O'Call,2017-07-31,Port of LA,False
+4134,USS IOWA,2017-07-31,Port of LA,False
+4135,Waterfront Park (East),2017-07-31,Port of LA,False
+4136,Waterfront Park (West),2017-07-31,Port of LA,False
+4138,Old Pasadena,2017-07-31,Pasadena,False
+4142,Pasadena Convention Center,2017-07-14,Pasadena,False
+4144,Cordova & Lake,2017-07-14,Pasadena,False
+4146,City Hall West,2017-07-14,Pasadena,False
+4147,Fair Oaks & Mercantile Alley,2017-07-14,Pasadena,False
+4148,Pasadena Central Library,2017-07-14,Pasadena,False
+4149,Arroyo Parkway & Bellevue,2017-07-14,Pasadena,False
+4150,Villa Parke,2017-07-14,Pasadena,False
+4151,Los Robles & Cordova,2017-07-14,Pasadena,False
+4152,Pasadena Museum,2017-07-14,Pasadena,False
+4153,Rose Bowl,2017-07-14,Pasadena,False
+4154,Fair Oaks & Peoria,2017-07-14,Pasadena,False
+4155,Lake & Union,2017-07-14,Pasadena,False
+4156,Madison & Walnut,2017-07-14,Pasadena,False
+4157,Lake & Del Mar,2017-07-14,Pasadena,False
+4158,Lake & California,2017-07-14,Pasadena,False
+4159,Pasadena City College,2017-07-14,Pasadena,False
+4160,Fillmore Station,2017-07-14,Pasadena,False
+4162,Memorial Park Station,2017-07-14,Pasadena,False
+4163,Lake & Locust,2017-07-14,Pasadena,False
+4165,Del Mar Station,2017-07-14,Pasadena,False
+4166,Colorado & Hill,2017-07-14,Pasadena,False
+4167,Pasadena & Dayton,2017-07-14,Pasadena,False
+4169,Oakland & Union,2017-07-14,Pasadena,False
+4170,Lake & Merrett,2017-07-14,Pasadena,False
+4174,Fair Oaks & Hammond,2017-07-14,Pasadena,False
+4176,Caltech East,2017-07-14,Pasadena,False
+4177,Madison & Colorado,2017-07-14,Pasadena,False
+4180,Caltech West,2017-07-14,Pasadena,False
+4181,Oak Knoll & Colorado,2017-07-21,Pasadena,False
+4183,Catalina & Colorado,2017-07-14,Pasadena,False
+4194,Union Station East,2017-07-14,DTLA,False
+4202,Abbot Kinney & Cadiz,2017-07-25,Westside,True
+4204,Washington & Abbot Kinney,2017-07-07,Westside,True
+4205,Venice & Lincoln,2017-07-07,Westside,True
+4206,California & Lincoln,2017-07-07,Westside,True
+4207,Rose & 7th,2017-07-07,Westside,True
+4208,Rose & Rennie,2017-07-07,Westside,True
+4209,Rose & Main,2017-07-07,Westside,True
+4210,Ocean Front Walk & North Venice,2017-07-07,Westside,True
+4211,Pacific & North Venice,2017-07-07,Westside,True
+4212,Windward & Main,2017-07-07,Westside,True
+4213,7th & Westminster,2017-07-07,Westside,True
+4214,Ocean Front Walk & Navy,2017-07-07,Westside,True
+4215,Downtown Santa Monica E Line Station,2017-07-07,Westside,True
+4216,17th St / SMC E Line Station,2017-07-07,Westside,True
+4217,Broadway & 11th,2017-07-07,DTLA,True
+4220,Park & Echo Park,2017-07-07,DTLA,True
+4227,Grand / LATTC,2017-09-28,DTLA,True
+4245,University & Hoover,2017-12-15,DTLA,True
+4246,32nd & Figueroa,2018-07-08,DTLA,True
+4247,25th & Vermont,2018-07-03,DTLA,True
+4248,29th & Ellendale,2019-05-29,DTLA,True
+4249,Figueroa & McCarthy Way,2018-07-02,DTLA,True
+4250,Severance & Adams,2018-06-29,DTLA,True
+4254,Hoover & 29th,2018-07-09,DTLA,True
+4255,Seabluff & Runway,2021-03-26,Westside,True
+4266,28th & Figueroa,#N/A,DTLA,True
+4267,28th & University,2018-11-29,DTLA,True
+4273,Hoover & 32nd,2018-08-23,DTLA,True
+4275,Expo Park/LAFC,2018-10-08,DTLA,True
+4276,Mariachi Plaza,2018-12-18,DTLA,False
+4285,Metro Bike Share Free Bikes,2018-12-02,Free Bikes,True
+4286,Metro Bike Share Out of Service Area Smart Bike,2019-02-27,Free Bikes,True
+4293,Westlake & 3rd,2019-02-27,DTLA,True
+4300,Union & Olympic,2019-01-25,DTLA,True
+4301,Maubert & Vermont,2019-01-24,DTLA,True
+4302,Vermont Pl & Vermont,2019-06-18,DTLA,True
+4303,Sunset & Virgil,2019-06-19,DTLA,True
+4304,Shatto Pl & Wilshire,2019-06-18,DTLA,True
+4306,8th & Vermont,2019-01-28,DTLA,True
+4311,7th & Berendo,2019-01-29,DTLA,True
+4312,4th & Vermont,2019-02-07,DTLA,False
+4313,Westlake/Macarthur Park Station,2019-02-07,DTLA,True
+4314,7th & Park View,2019-02-06,DTLA,True
+4315,Union & 7th,2019-02-08,DTLA,True
+4321,Expo & Bundy,2019-02-06,Westside,False
+4322,Venice & Inglewood,2020-07-22,Westside,False
+4323,Venice & Beethoven,2019-02-27,Westside,False
+4324,Palms & Motor,2019-02-27,Westside,False
+4325,Venice & Clarington,2019-02-27,Westside,False
+4328,Sepulveda & Palms,2019-02-27,Westside,False
+4329,Palms & National,2019-02-27,Westside,False
+4330,Bagley & Venice,2019-02-27,Westside,False
+4331,Venice & Colonial,2019-02-27,Westside,False
+4332,National & Motor,2019-02-27,Westside,False
+4333,Venice & Walgrove,2019-02-27,Westside,False
+4334,Venice & Motor,2019-02-27,Westside,False
+4335,Venice & Hughes,2019-02-27,Westside,False
+4336,Barrington & National,2019-02-27,Westside,False
+4337,Inglewood & Braddock,2019-02-28,Westside,False
+4338,Sepulveda & Venice,2019-05-22,Westside,False
+4339,Westwood & National,2019-07-02,Westside,False
+4340,17th St / SMC Expo Line Station,2019-03-21,Westside,False
+4341,7th & Westminster,2019-02-27,Westside,False
+4342,Abbot Kinney & Cadiz,2019-02-27,Westside,False
+4343,California & Lincoln,2019-02-27,Westside,False
+4344,Downtown Santa Monica Expo Line Station,2019-02-27,Westside,False
+4345,Ocean Front Walk & Navy,2019-02-27,Westside,False
+4346,Ocean Front Walk & North Venice,2019-02-27,Westside,False
+4347,Pacific & North Venice,2019-02-27,Westside,False
+4348,Rose & 7th,2019-02-27,Westside,False
+4349,Rose & Main,2019-02-27,Westside,False
+4350,Rose & Rennie,2019-02-27,Westside,False
+4351,Venice & Lincoln,2019-02-27,Westside,False
+4352,Washington & Abbot Kinney,2019-02-27,Westside,False
+4353,Windward & Main,2019-02-27,Westside,False
+4354,Venice & Glendon,2019-02-27,Westside,False
+4356,CicLAvia Downtown Culver City Hub,2019-02-27,Westside,False
+4357,CicLAvia Palms Hub,2019-03-01,Westside,False
+4369,Pop-up Station at CicLAvia Culver City Hub,2019-03-01,Westside,False
+4372,Public Bike Rack: Culver City Expo Line,2019-03-01,Westside,False
+4373,Public Bike Rack: Westwood/Rancho Park Expo Line North,2019-03-19,Westside,False
+4374,Public Bike Rack: Westwood/Rancho Park Expo Line South,2019-03-19,Westside,False
+4378,Palms & Kelton,2019-03-19,Westside,False
+4379,Sepulveda & Charnock,2019-03-21,Westside,False
+4380,Centinela & Lucile,2019-03-20,Westside,False
+4381,Sepulveda & Lucerne,2019-03-20,Westside,False
+4382,Westwood & National,2019-03-20,Westside,False
+4383,McLaughlin & Venice,2019-03-20,Westside,False
+4384,Inglewood & Ballona,2019-04-29,Westside,False
+4385,Public Bike Rack: Westwood/Rancho Park Expo Line,2019-07-02,Westside,False
+4387,Row DTLA,2019-03-19,DTLA,True
+4389,Expo/Sepulveda Expo Line Station,2019-04-01,Westside,False
+4390,Kenmore & 3rd,2019-05-06,DTLA,True
+4393,Durango & Venice,2019-05-09,Westside,False
+4394,Westlawn & Beatrice,2019-07-03,Westside,False
+4395,Del Rey Day Pop-up,2019-07-03,Westside,False
+4396,Sepulveda & National,2019-09-15,Westside,False
+4397,Mar Vista Rec Center,2019-05-22,Westside,False
+4400,Newton & Central,2019-05-17,DTLA,False
+4401,Vermont & Beverly,2019-06-11,DTLA,True
+4402,Pop Hollywood Ciclavia Walk of Fame Hub,2019-05-31,DTLA,False
+4403,Ciclavia Watts Hub,2019-08-18,DTLA,False
+4404,Albany & Olympic,2020-02-23,DTLA,True
+4405,Berendo & Olympic,2019-06-04,DTLA,True
+4406,Normandie & Hollywood,2019-06-25,DTLA,True
+4407,Pop Hollywood Ciclavia Barnsdall Art Park Hub,2019-08-15,DTLA,False
+4408,Venice & Sawtelle,2019-08-18,Westside,False
+4409,Maxella & Del Ray,2019-06-05,Westside,False
+4410,Kenmore & 6th,2019-06-05,DTLA,True
+4413,Lankershim & Vineland,2019-06-04,North Hollywood,True
+4414,Chandler & Colfax,2019-08-05,North Hollywood,True
+4415,Chandler & Laurel Canyon,2019-08-05,North Hollywood,True
+4416,Riverside & Colfax,2019-08-05,North Hollywood,True
+4417,Magnolia & Cartwright,2019-08-05,North Hollywood,True
+4418,Lankershim & Moorpark,2019-08-05,North Hollywood,True
+4419,Magnolia & Clybourn,2019-08-05,North Hollywood,True
+4420,North Hollywood Station,2019-08-05,North Hollywood,True
+4422,Riverside & Cahuenga,2019-08-05,North Hollywood,True
+4425,Mariota & Riverside,2019-08-05,North Hollywood,True
+4426,Tujunga & Moorpark,2019-08-05,North Hollywood,True
+4427,Vineland & Otsego,2019-08-05,North Hollywood,True
+4428,Lankershim & Hesby,2019-08-05,North Hollywood,True
+4429,Chandler & Cahuenga,2019-08-05,North Hollywood,True
+4430,Vineland & Burbank,2019-08-05,North Hollywood,True
+4431,Lankershim & Califa,2019-08-05,North Hollywood,True
+4432,Public Bike Rack: Universal City/Studio City Red Line Station,2019-08-05,North Hollywood,True
+4435,Centre & 6th,2019-08-23,Port of LA,False
+4436,Vermont & Franklin,2019-08-28,DTLA,True
+4437,Franklin & Hillhurst,2019-09-04,DTLA,True
+4438,Hoover & Fountain,2019-09-04,DTLA,True
+4439,Santa Monica & Virgil,2019-09-05,DTLA,True
+4440,Wilshire & Alexandria,2019-12-13,DTLA,True
+4441,University & 30th,2019-09-11,DTLA,True
+4442,Normandie & Sunset,2019-09-11,DTLA,True
+4443,Figueroa & Jefferson,2019-09-12,DTLA,True
+4444,Wilshire & Hobart,2019-09-12,DTLA,True
+4445,Sunset & Douglas,2019-09-26,DTLA,True
+4446,James M. Wood & Alvarado,2019-09-18,DTLA,True
+4447,Rampart & Wilshire,2019-10-02,DTLA,True
+4448,23rd St & Flower,2019-10-02,DTLA,True
+4449,12th & Valencia,2019-10-03,DTLA,True
+4450,Virgil & 6th,2019-09-25,DTLA,True
+4451,Melbourne & Vermont,2019-11-13,DTLA,True
+4452,Hillhurst & Kingswell,2019-10-09,DTLA,True
+4453,Lucile & Hoover,2019-10-09,DTLA,True
+4454,Vermont & Exposition,2019-09-25,DTLA,True
+4455,Rowena & Hyperion,2019-11-07,DTLA,True
+4456,Ardmore & Olympic,2019-11-12,DTLA,True
+4457,Hollywood & Rodney,2019-11-06,DTLA,True
+4458,Culver & Centinela,2019-11-06,Westside,False
+4459,Culver & McConnell,2019-10-15,Westside,False
+4460,Culver & Inglewood,2019-10-15,Westside,False
+4461,Rose & Overland,2019-10-17,Westside,False
+4462,Overland & Charnock,2019-10-17,Westside,False
+4463,Tujunga & Hatteras,2019-10-18,North Hollywood,True
+4469,Playa Vista Library,2019-10-16,Westside,False
+4470,McConnell & Runway,2019-11-05,Westside,False
+4472,Santa Monica & Sunset,2019-11-05,DTLA,True
+4473,Vendome & Beverly,2019-11-21,DTLA,True
+4474,Ambrose & Hillhurst,2019-11-26,DTLA,True
+4475,San Pedro & Winston,2020-01-15,DTLA,True
+4476,Sunset & Silver Lake,2020-01-15,DTLA,True
+4478,Tracy & Hyperion,2020-02-19,DTLA,True
+4479,Ellendale Pl & Adams,2020-01-08,DTLA,True
+4480,Figueroa Plaza,2020-01-09,DTLA,True
+4482,Wilcox & Fountain,2019-11-07,DTLA,True
+4483,Glendale & Silver Lake,2019-11-12,DTLA,True
+4484,Campus Center Drive,2019-11-21,Westside,False
+4486,Vista Hermosa Park,2021-02-03,DTLA,True
+4490,Figueroa & 4th,#N/A,DTLA,True
+4491,Main & Winston,2019-12-11,DTLA,True
+4493,Sunset Triangle Plaza,2019-12-11,DTLA,True
+4494,Laveta Terrace & Sunset,2019-12-18,DTLA,True
+4496,Concert Park,2020-01-08,Westside,False
+4497,Riverside & Laurel Canyon,2020-02-27,North Hollywood,True
+4498,Vineland & Oxnard,2020-04-14,North Hollywood,True
+4499,Victory & Colfax,2020-04-14,North Hollywood,True
+4500,Burbank & Cahuenga,2020-03-05,North Hollywood,True
+4502,North Hollywood Plaza,2020-03-05,North Hollywood,True
+4503,Stanford & Washington,2020-04-23,Westside,False
+4504,Vista Del Mar & Culver,2020-02-27,Westside,False
+4505,Glen Alla Park,2020-02-18,Westside,False
+4508,Ciclavia South Central Hub,2020-02-13,DTLA,False
+4509,Western & Hollywood,2020-02-23,DTLA,True
+4510,Mohawk Bend,2020-08-05,DTLA,True
+4511,Union Station East Portal,2020-08-13,DTLA,True
+4512,Figueroa & 11th,2020-10-08,DTLA,True
+4513,Edgemont & Melrose,2020-05-12,DTLA,True
+4516,7th & Hill,2020-09-24,DTLA,True
+4518,Normandie & 8th,2020-07-16,DTLA,True
+4521,Inglewood & Ballona,2021-03-04,Westside,True
+4523,Western & 3rd,#N/A,DTLA,True
+4524,Wilshire & Normandie,2020-04-22,DTLA,True
+4536,Venice & Abbot Kinney,2020-04-17,Westside,True
+4538,5th & Western,2020-12-05,DTLA,True
+4540,1st & Utah,2020-07-09,DTLA,True
+4541,Glen Alla Park,2020-09-10,Westside,False
+4542,Concert Park,2020-07-15,Westside,False
+4543,Toes Beach at Culver Blvd,2020-07-28,Westside,True
+4544,Dockweiler Beach at Imperial Hwy,2020-10-21,Westside,True
+4545,Vista Del Mar & Culver,2020-10-21,Westside,True
+4546,Expo/Bundy E Line Station,2020-10-21,Westside,True
+4547,Stanford & Washington,2021-03-03,Westside,True
+4548,Durango & Venice,2021-02-03,Westside,True
+4549,Barrington & National,#N/A,Westside,True
+4553,Venice & Beethoven,2021-01-12,Westside,True
+4554,Venice & Colonial,#N/A,Westside,True
+4555,Venice & Inglewood,2020-12-19,Westside,True
+4556,McLaughlin & Venice,2020-12-01,Westside,True
+4557,Venice & Sawtelle,2020-12-18,Westside,True
+4558,Bagley & Venice,2020-12-03,Westside,True
+4559,Palms & Kelton,2020-10-21,Westside,True
+4560,Sepulveda & Charnock,2020-11-26,Westside,True
+4561,Sepulveda & Palms,2021-01-12,Westside,True
+4562,Sepulveda & National,2021-01-14,Westside,True
+4563,Venice & Glendon,#N/A,Westside,True
+4564,Expo/Sepulveda E Line Station,2020-10-21,Westside,True
+4565,Alla & Maxella,2021-03-18,Westside,True
+4566,Venice & Hughes,#N/A,Westside,True
+4567,Venice & Motor,2020-12-02,Westside,True
+4568,Palms E Line Station,2020-11-25,Westside,True
+4569,Palms & Motor,2020-10-21,Westside,True
+4570,Sepulveda & Venice,2020-12-02,Westside,True
+4571,Rose & Overland,2020-12-01,Westside,True
+4572,National & Motor,2020-11-20,Westside,True
+4573,Westwood & National,2020-11-21,Westside,True
+4575,Lucerne & Sepulveda,2021-03-17,Westside,True
+4577,Inglewood & Braddock,#N/A,Westside,True
+4580,Centinela & Lucile,2020-12-09,Westside,True
+4581,Playa Vista Library,2021-02-02,Westside,True
+4582,Westlawn & Beatrice,#N/A,Westside,True
+4583,McConnell & Runway,2020-11-17,Westside,True
+4492,Westwood/Rancho Park E Line Station,2021-05-06,Westside,True
+4576,Motor & Regent,2021-04-23,Westside,True
+4579,Alla & Glencoe,2021-04-15,Westside,True
+4587,Wiltern,2021-04-22,DTLA,True

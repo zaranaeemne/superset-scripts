@@ -1,0 +1,6 @@
+pandas # for data loading instead of raw sql
+sqlalchemy # for db engine
+black
+psycopg2-binary
+geoalchemy2
+requests
